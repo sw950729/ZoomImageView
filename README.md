@@ -1,8 +1,5 @@
 # ZoomImageView   
-===========           
-   
-    
-
+        
 效果图   
 --------  
 ![github](https://github.com/sw950729/ZoomImageView/blob/master/gif/GIF.gif)   
